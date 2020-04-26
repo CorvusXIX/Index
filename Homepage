@@ -1,0 +1,226 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>David Mayfield</title>
+<link rel="stylesheet" type="text/css" href="test1.css">
+</head>
+
+<style>
+body {background-color: gray;}
+</style>
+
+<body>
+<style>
+header {
+  background-image: url('https://www.warhammer-community.com/wp-content/uploads/2019/09/RGPreview-Sep08-RGHeader-92mx7.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+</style>
+<header>
+	<style>
+	h1 {text-align: center;}
+	</style>
+	<h1 id="header1">David Mayfield Portfolio</h1>
+	<img src="DaveFace.jpg" style="width:391px;height:493px">
+</header>
+<div id="div1">
+
+<style>
+h2 {text-align: center;}
+</style>
+
+<h2>IST 276 Spring 2020</h2>
+	<section>	
+	<style>
+	h3 {text-align: center;}
+	</style>
+	<h3 class="div1head">Class Assignments</h3>
+	<details>
+	<summary>HTML Hobbies</summary>
+		<ul>
+			<li>My first Hobbies homework html</li>
+			    <li><a href="http://webclass.cs.mercer.edu/~mayfield_dm/StyledHobbies/">Link to Dave's Hobbies</a></li>
+		</ul>
+	</details>
+									 
+	<details>
+	<style>
+summary {text-align: center;}
+	</style>
+	<summary>Styled Hobbies</summary>
+		<ul>
+			<li>The styled version of HTML hobbies</li>
+			<li><a href="http://webclass.cs.mercer.edu/~mayfield_dm/StyledHobbies/">Link to Styled Hobbies with style</a></li>
+		</ul>
+	</details>
+		
+	<details>
+	<summary>Picture Collage</summary>
+		<ul>
+		<li>JavaScript that creates a picture collage of however many pictures you want</li>
+		<li><a href="http://webclass.cs.mercer.edu/~mayfield_dm/Collage/">Link to Picture Collage</a></li>
+	</details>
+		
+	<details>
+	<summary>SVG Graphics</summary>
+		<ul>
+			<li>Picture created only using SVG</li>
+			<li><a href="http://webclass.cs.mercer.edu/~mayfield_dm/SVG Graphics/">Link to SVG Graphics</a></li>
+		</ul>
+   </details>
+   
+   <details>
+   <summary>Test 2</summary>
+     <ul>
+       <li>Webpage Descibing my group and I's plan for the project</li>
+       <li><a href="http://webclass.cs.mercer.edu/~mayfield_dm/Test2/">Link to Test 2</a></li>
+     </ul>
+   </details>
+   
+   <details>
+   <summary>BoostrapHobbies</summary>
+     <ul>
+       <li>A redo of the hobbies assignment but with boostrap styling</li>
+       <li><a href="http://webclass.cs.mercer.edu/~mayfield_dm/BoostrapHobbies/">Link to BoostrapHobbies</a></li>
+     </ul>
+   </details>
+   
+   <details>
+   <summary>Test 3</summary>
+     <ul>
+       <li>Google Slides Presentation for my group's project</li>
+       <li><a href="https://docs.google.com/presentation/d/1AtphEoIi9F7P_QgdJc7lSMnFrw5rOgVOj4dGDv-N5Io/edit#slide=id.g74a00d96da_0_75">Link to Presentation</a></li>
+     </ul>
+   </details>
+	</section>
+	
+	<section>
+	<h3 class="div1head">Client-Side Web Development Tools</h3>
+	<details>
+	<summary>Bootstrap</summary>
+		<ul>
+			<li>Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.</li>
+			<li><a href="www.bootstrap.com">Link to tool</a></li>
+		</ul>
+	</details>
+	<details>
+	<summary>NPM or "Node Package Manager</summary>
+		<ul>
+			<li>NPM is a package manager for JavaScript that helps discover packages of reusable code and assemble them in new ways that makes them more powerful.</li>
+			<li><a href="https://www.npmjs.com/">Link to tool</a></li>
+		</ul>
+	</details>
+	<details>
+	<summary>w3Schools</summary>
+		<ul>
+			<li>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding.</li>
+			<li><a href="https://www.typescriptlang.org/index.html">Link to tool</a></li>
+		</ul>
+	</details>
+	</section>
+		<style>
+	section {text-align: center;}
+	</style>
+	<section>
+
+		<h3 class="div1head">Link to Classmates' portfolios</h3>
+
+		<ul id="class">
+			<li><a href="http://webclass.cs.mercer.edu/~sexton_bj"<p style="text-align:center">Benjamin Sexton</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~hu_c">Cathy Hu</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~garcia_ar">Alvaro Garcia</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~con-roma_sf">Sameal Con-Roma</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~gambill_eb">Evan Gambil</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~leicht_rb">Rabun Leicht</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~gumarin_jd">JR Gumarin</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~elton_bs">Sandy Elton</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~rangan_ak">Anish Rangan</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~langill_th">Trevor Langill</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~robinson_aj">Andrew Robinson</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~hullfish_nm">Noel Hullfish</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~stuckey_wm">Willow Stuckey</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~vaughan_is">Ian Vaughan</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~johnson_jm">Jared Johnson</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~mitchell_dh">Daniel Mitchell</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~sampson_sd">Siriah Sampson</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~bassett_lt">Liam Bassett</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~wessells_kj">Karen Wessells</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~iakovidis_g">Georgios Iakovidis</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~idris_k">Kyra Idris</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~cutchens_ks">Kyle Cutchens</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~rasmuson_sw">Spencer Rasmuson</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~weber_gg">Gabriel Weber</a></li>
+			<li><a href="http://webclass.cs.mercer.edu/~pulliam_jj">Jeremiah Pulliam</a></li>
+		</ul>
+	</section>
+</div>
+
+<div id="div2">
+<h2>Current Trends in Client-Side Technology</h2>
+	<section>
+	<h3 class="trendhead">HTML Trends</h3>
+	<p>HTML is the base programming language that creates a web page. It provides the information and base structure of the page.</p>
+		<article>
+		<h4>3D Folding Layout Technique for HTML Elements</h4>
+		<blockquote>This illusion is created by lining up multiple elements together to give the impression that it is a single piece. Then, rotating the elements on the edges making it look like the single piece is bending.</blockquote>
+		<a class="techlink" href="https://tympanus.net/codrops/2020/01/14/3d-folding-technique/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=web&utm_source=CSS_Layout_News_234">Link to Article</a>
+		</article>
+   <article>
+   <h4>Stop using so many divs! An intro into semantic HTML</h4>
+   <blockquote>We all love our div tags. They've been around for decades, and for decades they've been the go-to element when you need to wrap some stuff in a block for styling or structural purposes. It's still very common to look through production websites and see stuff like this:</blockquote>
+   <a class="techlink" href="https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Link to article</a>
+   </article>
+   <article>
+   <h4>HTML 5 vs HTML6</h4>
+   <blockquote>Developments in coding HTML5 brought the ability to create dynamic faster and robust web apps and mobile optimized solutions. In fact, HTML5 is a great mobile application template and has enabled support for video and audio, JavaScript API�s such as local Storage, geolocation and drag and drop, along with new organizational tags. But it has technical limitations and still leaves a lot to be desired.</blockquote>
+   <a class="techlink" href="https://www.invensis.net/blog/it/html5-vs-html6-comparison/">Link to article</a>
+   </article>
+	</section>
+ 
+	<section>
+	<h3 class="trendhead">CSS Trends</h3>
+	<p>CSS works in conjuction with HTML to 'style' a web page. It allows the creator to customize fonts, colors, borders, and many more parts of the webpage.</p>
+		<article>
+		<h4>CSS - position: sticky</h4>
+		<blockquote>At some point in your career as a web developer you will be asked to “just make it stay at the top while they scroll.” This has been something javascript has solved for us in past, but no more! position: sticky to the rescue!</blockquote>
+		<a class="techlink" href="https://terodox.tech/css-position-sticky/">Link to article</a>
+		</article>
+   <article>
+   <h4>CSS only Web Chat</h4>
+   <blockquote>This is an asynchronous chat that sends + receives messages in the browser with no reloads and no javascript</blockquote>
+   <a class="techlink" href="https://github.com/kkuchta/css-only-chat">Link to article</a>
+   </article>
+   <article>
+   <h4>The Future of CSS: Flexbox is a Game Changer</h4>
+   <blockquote>Soon, however, you�ll be able to throw out your floats and embrace a better way � the CSS Flexible Box Model, better known as simply Flexbox. Flexbox enables you to create complex layouts with only a few lines of code � no more floats and �clearfix� hacks.</blockquote>
+   <a class="techlink" href="https://www.wired.com/2013/04/the-future-of-css-flexbox-is-a-game-changer/">Link to article</a>
+   </article>
+	</section>
+ 
+	<section>
+	<h3 class="trendhead">JavaScript Trends</h3>
+	<p>JavaScript is a programming language used to create simple programs inside a webpage. Similar to Java but it does not need a JRE to run, only a webpage.</p>
+		<article>
+		<h4>JavaScript is the most in-demad IT skill</h4>
+		<blockquote>The surging popularity of JavaScript shows that the overwhelming need for developers to build web apps has eclipsed the need for developing large back-end systems, the report said</blockquote>
+		<a class="techlink" href="https://www.infoworld.com/article/3515788/javascript-is-the-most-in-demand-it-skill.html">Link to article</a>
+		</article>
+   <article>
+   <h4>What is Cross-Site Scripting?</h4>
+   <blockquote>Cross-site scripting, commonly referred to as XSS, occurs when hackers execute malicious JavaScript within a victim�s browser.</blockquote>
+   <a class="techlink" href="https://sucuri.net/guides/what-is-cross-site-scripting/">Link to article</a>
+   </article>
+   <article>
+   <h4>What is the Future of JavaScript?</h4>
+   <blockquote>According to Stack Overflow, a popular website used by developers to share their skills, JavaScript is used by 69.8%. </blockquote>
+   <a class="techlink" href="https://www.psdcenter.com/what-is-the-future-of-javascript/">Link to article</a>
+   </article>
+	</section>
+</div>
+
+<footer>David Mayfield IST 276 at Mercer University</footer>
+</body>
+</html>
