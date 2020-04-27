@@ -24,7 +24,7 @@ header {
 	h1 {text-align: center;}
 	</style>
 	<h1 id="header1">David Mayfield Portfolio</h1>
-	<img src="DaveFace.jpg" style="width:391px;height:493px">
+	<img src="DaveWife.jpg" style="width:391px;height:493px">
 </header>
 <div id="div1">
 
@@ -88,13 +88,7 @@ summary {text-align: center;}
      </ul>
    </details>
    
-   <details>
-   <summary>Test 3</summary>
-     <ul>
-       <li>Google Slides Presentation for my group's project</li>
-       <li><a href="https://docs.google.com/presentation/d/1AtphEoIi9F7P_QgdJc7lSMnFrw5rOgVOj4dGDv-N5Io/edit#slide=id.g74a00d96da_0_75">Link to Presentation</a></li>
-     </ul>
-   </details>
+
 	</section>
 	
 	<section>
